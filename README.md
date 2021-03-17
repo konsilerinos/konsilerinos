@@ -12,3 +12,4 @@
 ### Follow Me
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-0B2639?style=for-the-badge&logo=Vk&logoColor=2795E2)](https://vk.com/konsilerin)
+[![Facebook](https://img.shields.io/badge/-Facebook-0B2639?style=for-the-badge&logo=Facebook&logoColor=2795E2)](https://www.facebook.com/profile.php?id=100015246523050)
