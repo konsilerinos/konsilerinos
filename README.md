@@ -1,6 +1,9 @@
 ![Header](https://github.com/konsilerinos/konsilerinos/blob/main/Assets/title.png)
 
+
 ## I am student and a beginner software developer
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=konsilerinos&show_icons=true&theme=tokyonight">
 
 ### Languages and Tools
 
