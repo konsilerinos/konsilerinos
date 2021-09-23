@@ -16,4 +16,4 @@ Of course, the real name is Konsilerin. These and other repositories will show t
 
 ## Konsilerinos wants to tell you
 
-![изображение](https://user-images.githubusercontent.com/78896451/134555201-bd5610fa-7976-40bf-b072-440d956e8c1b.png)
+![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
