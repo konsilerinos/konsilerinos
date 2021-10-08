@@ -2,7 +2,9 @@
 
 # Hello my dear friend!
 
-Of course, the real name is Konsilerin. These and other repositories will show the technologies that make me crazy and with which I work most often
+Of course, the real name is Konsilerin
+
+These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
 
 ## Check out this shit
 
