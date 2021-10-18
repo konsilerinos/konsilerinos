@@ -6,7 +6,7 @@ Of course, the real name is Konsilerin
 
 These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
 
-## Check out this shit 😵❤️
+## :octocat: Check out this shit
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Sorting-algorithms&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Sorting-algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Dynamic-data-structures&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Dynamic-data-structures)
@@ -17,6 +17,6 @@ These and other repositories will show the technologies that make me crazy and w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## [Konsilerinos](https://vk.com/konsilerin) wants to tell you 💙
+## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
