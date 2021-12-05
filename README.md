@@ -1,10 +1,6 @@
 ![изображение](https://user-images.githubusercontent.com/78896451/134553886-176187e8-5dbe-44cd-8f58-85d2a52b6a48.png) 
 
-<h1 align="center">
-  <a title="Танцующий смайл смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a> 
-  Hello my dear friend!
-  <a title="Танцующий смайл смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
-</h1>
+# Hello my dear friend!
 
 Of course, the real name is Konsilerin
 
@@ -34,7 +30,8 @@ These and other repositories will show the technologies that make me crazy and w
 ## :octocat: Wow it's me mmm 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<a title="Танцующий смайл смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
+<a title="Флаг Союза Советских Социалистических Республик смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Союза Советских Социалистических Республик смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/55626033.gif?1638736286></a>
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
