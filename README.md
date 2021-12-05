@@ -1,10 +1,14 @@
-![изображение](https://user-images.githubusercontent.com/78896451/134553886-176187e8-5dbe-44cd-8f58-85d2a52b6a48.png)
+![изображение](https://user-images.githubusercontent.com/78896451/134553886-176187e8-5dbe-44cd-8f58-85d2a52b6a48.png) 
 
-# Hello my dear friend!
+<h1 align="center">
+  <a title="Танцующий смайл смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a> 
+  Hello my dear friend!
+  <a title="Танцующий смайл смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
+</h1>
 
 Of course, the real name is Konsilerin
 
-These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
+These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺 
 
 ## :octocat: Check out this shit
 
