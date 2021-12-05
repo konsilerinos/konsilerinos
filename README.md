@@ -8,10 +8,11 @@ These and other repositories will show the technologies that make me crazy and w
 
 ## :octocat: Check out this shit
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Sort-lib&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Sorting-algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Timer&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Timer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=English-anki-tool&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/English-anki-tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Database-tool&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Database-tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Timer&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Sort-lib&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Sorting-algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=English-anki-tool&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/English-anki-tool)
+
 
 ## :octocat: Wow it's me mmm 
 
