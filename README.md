@@ -32,4 +32,3 @@ These and other repositories will show the technologies that make me crazy and w
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
-![qt](https://user-images.githubusercontent.com/78896451/144758378-9bf11052-fec8-4a9b-addb-8b5cac4a902d.png)
