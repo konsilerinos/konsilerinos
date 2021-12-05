@@ -13,6 +13,17 @@ These and other repositories will show the technologies that make me crazy and w
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Sort-lib&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Sorting-algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=English-anki-tool&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/English-anki-tool)
 
+<br/>
+
+## Languages and Tools
+
+<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Qt" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
+
+<br/>
+<hr/>
+
 
 ## :octocat: Wow it's me mmm 
 
@@ -21,3 +32,4 @@ These and other repositories will show the technologies that make me crazy and w
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
+![qt](https://user-images.githubusercontent.com/78896451/144758378-9bf11052-fec8-4a9b-addb-8b5cac4a902d.png)
