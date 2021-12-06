@@ -28,24 +28,28 @@ These and other repositories will show the technologies that make me crazy and w
 <br/>
 <hr>
 
-## :octocat: Wow it's me mmm 
+<div align="center">
 
-
+<a title="Танцующий смайл" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 <a title="Танцующий смайл" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
-<a title="Флаг Союза Советских Социалистических Республик" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Союза Советских Социалистических Республик смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/55626033.gif?1638736286></a>
 
-
+<hr>
+  
+<div align="left">
+  
 ## 📈 Stats
 
 <div align="center">
 
+<a title="Флаг Российской Федерации смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Российской Федерации смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/182799035.gif?1638798013></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+<a title="Флаг Союза Советских Социалистических Республик" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Союза Советских Социалистических Республик смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/55626033.gif?1638736286></a>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konsilerinos&theme=noctis-minimus	)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=konsilerinos&color=blue&style=flat-square)
-  
+
 <div align="left">
   
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
