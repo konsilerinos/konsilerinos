@@ -1,5 +1,7 @@
 ![изображение](https://user-images.githubusercontent.com/78896451/134553886-176187e8-5dbe-44cd-8f58-85d2a52b6a48.png) 
 
+![](https://komarev.com/ghpvc/?username=konsilerinos&color=blue&style=flat-square)
+
 # Hello my dear friend!
 
 Of course, the real name is Konsilerin
@@ -29,6 +31,7 @@ These and other repositories will show the technologies that make me crazy and w
 <hr>
 
 ## :octocat: Wow it's me mmm 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 <a title="Танцующий смайл" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
