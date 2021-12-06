@@ -42,7 +42,6 @@ These and other repositories will show the technologies that make me crazy and w
 
 <div align="center">
 
-<a title="Флаг Российской Федерации смайлик гиф анимация картинки" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Российской Федерации смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/182799035.gif?1638798013></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <a title="Флаг Союза Советских Социалистических Республик" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Союза Советских Социалистических Республик смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/55626033.gif?1638736286></a>
   
