@@ -1,12 +1,12 @@
 ![изображение](https://user-images.githubusercontent.com/78896451/134553886-176187e8-5dbe-44cd-8f58-85d2a52b6a48.png) 
 
-# Hello my dear friend!
+# Hello my dear friend! <a title="Превед" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Превед смайлег смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/42755811.gif?1638797756></a>
 
 Of course, the real name is Konsilerin
 
 These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺 
 
-## :octocat: Check out this shit
+## :octocat: Check out this shit <a title="Не хулиганить" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Не хулиганить смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/897423321.gif?1638797757></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Database-tool&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Database-tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Timer&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Timer)
@@ -34,6 +34,7 @@ These and other repositories will show the technologies that make me crazy and w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 <a title="Танцующий смайл" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
 <a title="Флаг Союза Советских Социалистических Республик" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Союза Советских Социалистических Республик смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/55626033.gif?1638736286></a>
+
 
 ## 📈 Stats
 
