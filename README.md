@@ -1,7 +1,5 @@
 ![изображение](https://user-images.githubusercontent.com/78896451/134553886-176187e8-5dbe-44cd-8f58-85d2a52b6a48.png) 
 
-![](https://komarev.com/ghpvc/?username=konsilerinos&color=blue&style=flat-square)
-
 # Hello my dear friend!
 
 Of course, the real name is Konsilerin
@@ -37,6 +35,18 @@ These and other repositories will show the technologies that make me crazy and w
 <a title="Танцующий смайл" target=_blank href=http://wdesk.ru/photo/smajliki/prikolnye/60><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
 <a title="Флаг Союза Советских Социалистических Республик" target=_blank href=http://wdesk.ru/photo/smajliki/flagi/82><img alt="Флаг Союза Советских Социалистических Республик смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/82/2/55626033.gif?1638736286></a>
 
+## 📈 Stats
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konsilerinos&theme=noctis-minimus	)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=konsilerinos&color=blue&style=flat-square)
+  
+<div align="left">
+  
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
