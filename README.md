@@ -32,12 +32,16 @@ These and other repositories will show the technologies that make me crazy and w
 <img align="left" alt="Markdown" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img align="left" alt="LaTeX" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
-<br>
+<br/>
 <hr>
 
 <div align="center">
-  
-![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow&config.display=large)
+
+<a title="Танцующий смайл" target=_blank><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<a title="Танцующий смайл" target=_blank><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
+
+<hr>
 
 <div align="left">
   
@@ -45,12 +49,14 @@ These and other repositories will show the technologies that make me crazy and w
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&row=2&column=7&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konsilerinos&theme=noctis-minimus)](https://git.io/streak-stats)
 
-<div align="left">
+![](https://komarev.com/ghpvc/?username=konsilerinos&color=blue&style=flat-square)
 
+<div align="left">
+  
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
