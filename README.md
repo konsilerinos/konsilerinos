@@ -49,9 +49,9 @@ These and other repositories will show the technologies that make me crazy and w
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&row=2&column=4&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konsilerinos&theme=noctis-minimus	)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konsilerinos&theme=noctis-minimus)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=konsilerinos&color=blue&style=flat-square)
 
