@@ -12,7 +12,7 @@ Of course, the real name is Konsilerin / konsilerinos. **Welcome to the abode of
   
 These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
 
-## :octocat: Check out this shit <a title="Не хулиганить" target=_blank><img alt="Не хулиганить смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/897423321.gif?1638797757></a>
+## :octocat: Check out this sh#t <a title="Не хулиганить" target=_blank><img alt="Не хулиганить смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/897423321.gif?1638797757></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Database-tool&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Database-tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Timer&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Timer)
