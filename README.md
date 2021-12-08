@@ -10,7 +10,9 @@ Of course, the real name is Konsilerin / konsilerinos. **Welcome to the abode of
   
 <div align = "left">
   
-These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
+These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺 And a little bit of information about the page 👌
+
+![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.metadata=0&config.timezone=Europe%2FMoscow)
 
 ## :octocat: Check out this sh#t <a title="Не хулиганить" target=_blank><img alt="Не хулиганить смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/897423321.gif?1638797757></a>
 
@@ -32,16 +34,12 @@ These and other repositories will show the technologies that make me crazy and w
 <img align="left" alt="Markdown" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img align="left" alt="LaTeX" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
-<br/>
+<br>
 <hr>
-  
-## Wow, it's me, mmm
-  
-<div align="center">
-    
-![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.metadata=0&config.timezone=Europe%2FMoscow&config.display=large)
 
-<hr>
+<div align="center">
+  
+![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow&config.display=large)
 
 <div align="left">
   
@@ -52,11 +50,11 @@ These and other repositories will show the technologies that make me crazy and w
 [![trophy](https://github-profile-trophy.vercel.app/?username=konsilerinos&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konsilerinos&theme=noctis-minimus)](https://git.io/streak-stats)
-  
-![](https://komarev.com/ghpvc/?username=konsilerinos&color=blue&style=flat-square)
 
 <div align="left">
   
+![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow&config.display=large)
+
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
