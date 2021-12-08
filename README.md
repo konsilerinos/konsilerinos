@@ -2,7 +2,7 @@
 
 # Hello my dear friend! <a title="Превед" target=_blank><img alt="Превед смайлег смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/42755811.gif?1638797756></a>
 
-Of course, the real name is Konsilerin / konsilerinos. **Welcome to the abode of science, technology, humor and MADNESS!!1!** 🤘💀🤘 You may not be a programmer, we will teach you to write code anyway, but you must be a musician 🎵
+Of course, the real name is Konsilerin / konsilerinos. **Welcome to the abode of science, technology, humor and MADNESS!!1!** 🤘💀🤘 You may not be a programmer, we will teach you to write code anyway, but you must be a [musician](https://open.spotify.com/) 🎵
 
 <div align = "center">
 
