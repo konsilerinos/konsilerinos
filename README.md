@@ -2,11 +2,15 @@
 
 # Hello my dear friend! <a title="Превед" target=_blank><img alt="Превед смайлег смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/42755811.gif?1638797756></a>
 
+Of course, the real name is Konsilerin. You may not be a programmer, we will teach you to write code anyway, but you must be a musician 🎵
+
+<div align = "center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3124lyyronknvc2rcyp6547ojbse&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-Of course, the real name is Konsilerin
-
-These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺 
+<div align = "left">
+  
+These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
 
 ## :octocat: Check out this shit <a title="Не хулиганить" target=_blank><img alt="Не хулиганить смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/897423321.gif?1638797757></a>
 
@@ -38,7 +42,7 @@ These and other repositories will show the technologies that make me crazy and w
 <a title="Танцующий смайл" target=_blank><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
 
 <hr>
-  
+
 <div align="left">
   
 ## 📈 Stats
