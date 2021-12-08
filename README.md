@@ -34,12 +34,12 @@ These and other repositories will show the technologies that make me crazy and w
 
 <br/>
 <hr>
-
+  
+## Wow, it's me, mmm
+  
 <div align="center">
-
-<a title="Танцующий смайл" target=_blank><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-<a title="Танцующий смайл" target=_blank><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
+    
+![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.metadata=0&config.timezone=Europe%2FMoscow&config.display=large)
 
 <hr>
 
