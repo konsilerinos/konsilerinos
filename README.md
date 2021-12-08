@@ -36,10 +36,10 @@ These and other repositories will show the technologies that make me crazy and w
 <hr>
 
 <div align="center">
-
-<a title="Танцующий смайл" target=_blank><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
+  
+![2](https://user-images.githubusercontent.com/78896451/145265340-d2a48cfa-c15f-4aa6-bdbd-c067d14a2a88.jpg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konsilerinos&layout=compact&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-<a title="Танцующий смайл" target=_blank><img alt="Танцующий смайл смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/274749555.gif?1638735190></a>
+![1](https://user-images.githubusercontent.com/78896451/145265371-9e68b940-0253-4b02-bcaa-ee1a0b9a1210.jpg)
 
 <hr>
 
