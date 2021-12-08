@@ -10,9 +10,7 @@ Of course, the real name is Konsilerin / konsilerinos. **Welcome to the abode of
   
 <div align = "left">
   
-These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺 And a little bit of information about the page 👌
-
-![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.metadata=0&config.timezone=Europe%2FMoscow)
+These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
 
 ## :octocat: Check out this sh#t <a title="Не хулиганить" target=_blank><img alt="Не хулиганить смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/897423321.gif?1638797757></a>
 
@@ -52,8 +50,6 @@ These and other repositories will show the technologies that make me crazy and w
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=konsilerinos&theme=noctis-minimus)](https://git.io/streak-stats)
 
 <div align="left">
-  
-![Metrics](https://metrics.lecoq.io/konsilerinos?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow&config.display=large)
 
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
 
