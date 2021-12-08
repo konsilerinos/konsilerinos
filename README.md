@@ -2,12 +2,14 @@
 
 # Hello my dear friend! <a title="Превед" target=_blank><img alt="Превед смайлег смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/42755811.gif?1638797756></a>
 
-Of course, the real name is Konsilerin. You may not be a programmer, we will teach you to write code anyway, but you must be a musician 🎵
+Of course, the real name is Konsilerin / konsilerinos. **Welcome to the abode of science, technology, humor and MADNESS!!1!** 🤘💀🤘
+
+You may not be a programmer, we will teach you to write code anyway, but you must be a musician 🎵
 
 <div align = "center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3124lyyronknvc2rcyp6547ojbse&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+  
 <div align = "left">
   
 These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
