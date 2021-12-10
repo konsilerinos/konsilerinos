@@ -1,7 +1,6 @@
 ![изображение](https://user-images.githubusercontent.com/78896451/134553886-176187e8-5dbe-44cd-8f58-85d2a52b6a48.png) 
 
-# Hello my dear friend! <a title="Превед" target=_blank><img alt="Превед смайлег смайлик гиф анимация картинки" src=http://wdesk.ucoz.net/_ph/60/2/42755811.gif?1638797756></a>
-
+# Hello my dear friend! 
 Of course, the real name is Konsilerin
 <br>
 These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
