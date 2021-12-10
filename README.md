@@ -6,7 +6,7 @@ Of course, the real name is Konsilerin
 
 These and other repositories will show the technologies that make me crazy and with which I work most often 👺👺👺
 
-## :octocat: It is interesting
+## :octocat: Look, it's interesting
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Database-tool&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Database-tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konsilerinos&repo=Timer&text_color=112a3a&title_color=0c5ea8&icon_color=112a3a&show_owner=true)](https://github.com/konsilerinos/Timer)
