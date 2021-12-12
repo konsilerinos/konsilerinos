@@ -36,6 +36,8 @@ These and other repositories will show the technologies that make me crazy and w
 
 ### Other
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
