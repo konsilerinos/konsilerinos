@@ -42,6 +42,6 @@ These and other repositories will show the technologies that make me crazy and w
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## [Konsilerinos](https://vk.com/konsilerin) wants to tell you ❤️
+## [Konsilerinos](https://t.me/Konsilerin) wants to tell you ❤️
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134555729-dfdecb4b-4217-4e09-81c4-8d8245fad92b.png)
